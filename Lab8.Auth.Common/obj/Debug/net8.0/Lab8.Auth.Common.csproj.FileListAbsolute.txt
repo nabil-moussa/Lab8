@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\bin\Debug\net8.0\Lab8.Auth.Common.deps.json
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\bin\Debug\net8.0\Lab8.Auth.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\bin\Debug\net8.0\Lab8.Auth.Common.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\refint\Lab8.Auth.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\Lab8.Auth.Common.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Common\obj\Debug\net8.0\ref\Lab8.Auth.Common.dll

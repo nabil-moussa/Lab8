@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab8.Course.Domain\Lab8.Course.Domain.csproj" />
+      <ProjectReference Include="..\Lab8.Course.Infrastructure\Lab8.Course.Infrastructure.csproj" />
+      <ProjectReference Include="..\Lab8.Course.Persistence\Lab8.Course.Persistence.csproj" />
+    </ItemGroup>
+
+    
+</Project>

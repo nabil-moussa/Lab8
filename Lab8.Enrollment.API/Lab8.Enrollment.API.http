@@ -1,0 +1,6 @@
+@Lab8.Enrollment.API_HostAddress = http://localhost:5285
+
+GET {{Lab8.Enrollment.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Lab8.Enrollment.Common\Lab8.Enrollment.Common.csproj" />
+        <ProjectReference Include="..\Lab8.Enrollment.Domain\Lab8.Enrollment.Domain.csproj" />
+        <ProjectReference Include="..\Lab8.Enrollment.Infrastructure\Lab8.Enrollment.Infrastructure.csproj" />
+        <ProjectReference Include="..\Lab8.Enrollment.Persistence\Lab8.Enrollment.Persistence.csproj" />
+    </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Infrastructure.deps.json
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Common.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\bin\Debug\net8.0\Lab8.Enrollment.Domain.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enr.6D3B049F.Up2Date
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\refint\Lab8.Enrollment.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\Lab8.Enrollment.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Infrastructure\obj\Debug\net8.0\ref\Lab8.Enrollment.Infrastructure.dll

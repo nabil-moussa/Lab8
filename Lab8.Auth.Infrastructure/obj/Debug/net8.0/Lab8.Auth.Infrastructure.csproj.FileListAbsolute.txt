@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Infrastructure.deps.json
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Common.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\bin\Debug\net8.0\Lab8.Auth.Domain.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Aut.283BCA0B.Up2Date
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\refint\Lab8.Auth.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\Lab8.Auth.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Auth.Infrastructure\obj\Debug\net8.0\ref\Lab8.Auth.Infrastructure.dll

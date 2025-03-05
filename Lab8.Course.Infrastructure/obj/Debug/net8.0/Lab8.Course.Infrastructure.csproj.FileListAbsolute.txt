@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Infrastructure.deps.json
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Common.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Common.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\bin\Debug\net8.0\Lab8.Course.Domain.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Cou.71A8C194.Up2Date
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\refint\Lab8.Course.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\Lab8.Course.Infrastructure.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Course.Infrastructure\obj\Debug\net8.0\ref\Lab8.Course.Infrastructure.dll

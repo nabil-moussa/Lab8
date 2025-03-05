@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\bin\Debug\net8.0\Lab8.Enrollment.Domain.deps.json
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\bin\Debug\net8.0\Lab8.Enrollment.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\bin\Debug\net8.0\Lab8.Enrollment.Domain.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\refint\Lab8.Enrollment.Domain.dll
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\Lab8.Enrollment.Domain.pdb
+C:\Users\user\OneDrive\Desktop\InmindAcademy\Inmind\Lab8\Lab8.Enrollment.Domain\obj\Debug\net8.0\ref\Lab8.Enrollment.Domain.dll

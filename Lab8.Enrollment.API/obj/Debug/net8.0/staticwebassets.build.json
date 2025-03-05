@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DzCWmnhRv9fQSBLTY+XK2BUynWmgVh9L3MTVGotFHso=",
+  "Source": "Lab8.Enrollment.API",
+  "BasePath": "_content/Lab8.Enrollment.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
