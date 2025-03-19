@@ -25,7 +25,8 @@ builder.Services.AddMemoryCache();
 builder.Services.AddDbContext<EnrollmentDbContext>(options =>
     options.UseNpgsql(
         builder.Configuration.GetConnectionString("DefaultConnection"),
-        b => b.MigrationsAssembly("Lab8.Enrollment.Persistence")));builder.Services.AddSingleton<RabbitMQPublisher>();
+        b => b.MigrationsAssembly("Lab8.Enrollment.Persistence")));
+builder.Services.AddSingleton<RabbitMQPublisher>();
 builder.Services.AddSingleton<RabbitMQConsumer>();
 builder.Services.AddMultitenancy(builder.Configuration);
 

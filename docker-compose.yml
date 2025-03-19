@@ -1,0 +1,100 @@
+version: '3.8'
+
+services:
+    postgres:
+        image: postgres:latest
+        container_name: lab8-postgres
+        environment:
+            POSTGRES_USER: nabilmoussa123
+            POSTGRES_PASSWORD: mysecretpassword
+            POSTGRES_DB: lab8.enrollment
+        ports:
+            - "5432:5432"
+        volumes:
+            - postgres_data:/var/lib/postgresql/data
+        networks:
+            - backend-network
+
+    rabbitmq:
+        image: rabbitmq:3-management
+        container_name: lab8-rabbitmq
+        ports:
+            - "5672:5672"
+            - "15672:15672"
+        networks:
+            - backend-network
+
+    auth-service:
+        build:
+            context: .
+            dockerfile: Lab8.Auth.API/Dockerfile
+        container_name: lab8-auth-service
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ConnectionStrings__DefaultConnection=Host=postgres;Database=lab8.auth;Username=nabilmoussa123;Password=mysecretpassword
+            - RabbitMQ__HostName=rabbitmq
+            - RabbitMQ__Port=5672
+            - RabbitMQ__UserName=guest
+            - RabbitMQ__Password=guest
+        ports:
+            - "8001:8080"
+            - "8002:8081"
+        depends_on:
+            - postgres
+            - rabbitmq
+        networks:
+            - backend-network
+            - frontend-network
+
+    course-service:
+        build:
+            context: .
+            dockerfile: Lab8.Course.API/Dockerfile
+        container_name: lab8-course-service
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ConnectionStrings__DefaultConnection=Host=postgres;Database=Lab8Course;Username=nabilmoussa123;Password=mysecretpassword
+            - RabbitMQ__HostName=rabbitmq
+            - RabbitMQ__Port=5672
+            - RabbitMQ__UserName=guest
+            - RabbitMQ__Password=guest
+        ports:
+            - "8003:8080"
+            - "8004:8081"
+        depends_on:
+            - postgres
+            - rabbitmq
+        networks:
+            - backend-network
+            - frontend-network
+
+    enrollment-service:
+        build:
+            context: .
+            dockerfile: Lab8.Enrollment.API/Dockerfile
+        container_name: lab8-enrollment-service
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Development
+            - ConnectionStrings__DefaultConnection=Host=postgres;Database=lab8.enrollment;Username=nabilmoussa123;Password=mysecretpassword
+            - RabbitMQ__HostName=rabbitmq
+            - RabbitMQ__Port=5672
+            - RabbitMQ__UserName=guest
+            - RabbitMQ__Password=guest
+        ports:
+            - "8005:8080"
+            - "8006:8081"
+        depends_on:
+            - postgres
+            - rabbitmq
+        networks:
+            - backend-network
+            - frontend-network
+
+networks:
+    backend-network:
+        driver: bridge
+    frontend-network:
+        driver: bridge
+
+volumes:
+    postgres_data:

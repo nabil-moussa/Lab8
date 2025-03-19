@@ -49,6 +49,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8.Enrollment.API", "Lab8.Enrollment.API\Lab8.Enrollment.API.csproj", "{A7772CB4-D83A-40EF-9D77-FBED289C3BD7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab8.Auth", "Lab8.Auth", "{D64F9E7A-A243-4160-A418-B102FA92C786}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{F33A81BA-3F20-4178-B3EB-8F988AB23C99}"
 EndProject

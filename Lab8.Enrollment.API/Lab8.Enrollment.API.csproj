@@ -4,6 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
     <ItemGroup>
@@ -23,6 +24,12 @@
         <ProjectReference Include="..\Lab8.Enrollment.Application\Lab8.Enrollment.Application.csproj" />
         <ProjectReference Include="..\Lab8.Enrollment.Common\Lab8.Enrollment.Common.csproj" />
         <ProjectReference Include="..\Lab8.Enrollment.Persistence\Lab8.Enrollment.Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
     </ItemGroup>
 
 </Project>

@@ -22,7 +22,8 @@ builder.Services.AddMemoryCache();
 
 builder.Services.AddPersistence(builder.Configuration);
 builder.Services.AddSingleton<RabbitMQPublisher>();
-builder.Services.AddSingleton<RabbitMQConsumer>();builder.Services.AddApplication();
+builder.Services.AddSingleton<RabbitMQConsumer>();
+builder.Services.AddApplication();
 builder.Services.AddMultitenancy(builder.Configuration);
 
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("Jwt"));

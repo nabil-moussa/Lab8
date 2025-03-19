@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.Text.Json;
+using Microsoft.Extensions.Configuration;
 using RabbitMQ.Client;
 
 namespace Lab8.Enrollment.Infrastructure.RabbitMQ
@@ -10,15 +11,19 @@ namespace Lab8.Enrollment.Infrastructure.RabbitMQ
         private readonly IModel _channel;
         private readonly string _exchangeName;
 
-        public RabbitMQPublisher(string hostName, string exchangeName)
+        public RabbitMQPublisher(IConfiguration configuration)
         {
-            var factory = new ConnectionFactory() { HostName = hostName };
+            var factory = new ConnectionFactory
+            {
+                HostName = configuration["RabbitMQ:HostName"] ?? "localhost",
+                Port = int.Parse(configuration["RabbitMQ:Port"] ?? "5672"),
+                UserName = configuration["RabbitMQ:UserName"] ?? "guest",
+                Password = configuration["RabbitMQ:Password"] ?? "guest"
+            };
+
             _connection = factory.CreateConnection();
             _channel = _connection.CreateModel();
-            _exchangeName = exchangeName;
-
-            // Declare exchange
-            _channel.ExchangeDeclare(exchangeName, ExchangeType.Fanout);
+            _channel.ExchangeDeclare(_exchangeName, ExchangeType.Direct, durable: true);
         }
 
         private void PublishMessage(string routingKey, object message)
