@@ -29,6 +29,4 @@ jobs:
         context: .
         file: ./Lab8.Auth.API/Dockerfile
         push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab8-auth-service:latest
-
-
+        tags: nabilmoussa123/lab8:latest 
