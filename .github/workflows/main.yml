@@ -26,6 +26,6 @@ jobs:
     - name: Build and push
       uses: docker/build-push-action@v4
       with:
-        context: .
+        context: ./Lab8.Auth.API
         push: true
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab8-auth-service:latest
